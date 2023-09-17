@@ -1,2 +1,1 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+Interesting article <p> Is That a Model or AI by Katharine K. Zarrella, The Wall Street Journal. <p> I find this article interesting as it wrestles with the ethical implication of generative AI systems that may perpetuate systemic racism in the fashion industry. There is evidence of AI tools harming marginalized groups, due to AI models potentially being trained on baised historical decisions, 
