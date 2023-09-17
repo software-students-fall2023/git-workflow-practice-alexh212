@@ -2,7 +2,8 @@
 
 ### https://www.wsj.com/style/fashion/ai-models-levis-nars-influencers-8cab8ba5
 
-<p> Is That a Model or AI by Katharine K. Zarrella, The Wall Street Journal. <p> 
+<p> Is That a Model or AI by Katharine K. Zarrella
+<i> The Wall Street Journal <i> <p>
 
 I find this article interesting as it wrestles with the ethical implication of generative AI systems that may perpetuate systemic racism in the fashion industry. It's evident that AI tools can inadvertently hard marginalized groups due to these systems potentially being trained on baised historical decisions or data. 
 
